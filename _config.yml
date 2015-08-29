@@ -23,7 +23,6 @@ favicon:     "img/applogo_v4_blue_dark.ico"
 touch_icon:  "img/Logo_LightBlue.png"
 google_analytics_key: ## put YOUR key here to enable tracking! (blank to disable)
 
-
 ### template colors, used site-wide via css ###
 colors:
   black:     '#111111'
@@ -32,7 +31,17 @@ colors:
   green:     '#9bcf2f'
   purple:    '#c869bf'
   orange:    '#fab125'
+  yellow:    '#FFFF00'
   turquoise: '#0fbfcf'
   vuece_pink_dark: rgb(255, 102, 102)
+  funk_yellow: '#fff200'
+  aqua: 	'#00FFFF'
+  scheme1_black: '#393939'
+  scheme1_dark_black: '#111111'
+  scheme1_orange: '#FF5A09'
+  scheme1_pink: '#F3843E'
+  scheme1_yellow: '#ff9900'
+  scheme1_gray: '#6e6e6e'
+  scheme1_dark_blue: '#004687'
   vuece_black_light: #383838
   

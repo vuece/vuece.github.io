@@ -32,7 +32,9 @@ code, pre { font-family: Monaco, Menlo, Consolas, "Courier New", monospace; }
 
 /* spesifically inline code */
 code {
+
   background: rgba(255,255,255,0.2);
+  
   display: inline;
   word-wrap: break-word;
 }
@@ -111,6 +113,9 @@ hr {
 
 /* ----- top menu ----- */
 
+/* style="background-image:url(img/bkg.jpg);background-repeat: no-repeat;background-size: cover;"> */
+      
+
 {% assign navborder = 3 %}
 {% assign navborder_active = 6 %}
 
@@ -121,7 +126,9 @@ nav {
   z-index:100;
   top:0;
   left:0;
-  background:#2e2e2e;
+  background-color:#393939;
+  background:url(img/noisy-texture-100x100-o5-d20-c-242424-t0.png);
+  opacity: 0.8;
 }
 
 nav ul {
@@ -134,7 +141,9 @@ nav ul {
 
 nav ul li {
   display:inline-block;
+  /*
   border-top:{{navborder}}px solid;
+  */
   padding: {{navborder}}px 0;
   *display:inline;
   zoom:1;
@@ -148,14 +157,14 @@ nav ul li {
 
 nav ul li a, nav ul li a:visited {
   display:block;
-  color:#fff;
+  color:#29ABAB;
   text-decoration:none;
   font-weight:600;
   opacity:.75;
 }
 
 nav ul li a:hover {
-  opacity:1
+  color:#00FFFF;
 }
 nav ul li:hover, nav ul li.active {
   border-top-width: {{navborder_active}}px;
@@ -171,7 +180,10 @@ nav ul li:hover, nav ul li.active {
   width:100%;
   min-height:300px;
   padding:210px 0;
-  background:url(img/bgnoise.png);
+  background:url(img/noisy-texture-100x100-o4-d16-c-121212-t1.png); 
+  
+    
+      /* background:url(img/bkg.jpg);*/
   /* generated noise from noisetexturegenerator.com */
 }
 
@@ -184,8 +196,8 @@ nav ul li:hover, nav ul li.active {
   padding: 8px 0;
   min-height:0;
   text-align:center;
-  background-color:#2e2e2e;
-  background-image:none;
+  background-color:#393939;
+  background:url(img/noisy-texture-100x100-o5-d20-c-242424-t0.png); 
 }
 #footer .container p { font-size:13px; margin:0; }
 
