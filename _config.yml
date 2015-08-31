@@ -28,7 +28,7 @@ colors:
   black:     '#111111'
   white:     '#f8f8f8'
   blue:      '#49a7e9'
-  green:     '#9bcf2f'
+  green:     '#bccf02'
   purple:    '#c869bf'
   orange:    '#fab125'
   yellow:    '#FFFF00'
@@ -41,7 +41,9 @@ colors:
   scheme1_orange: '#FF5A09'
   scheme1_pink: '#F3843E'
   scheme1_yellow: '#ff9900'
+  scheme1_yellow_bright: '#fee202'
   scheme1_gray: '#6e6e6e'
   scheme1_dark_blue: '#004687'
-  vuece_black_light: #383838
+  scheme1_choc: '#48372f'
+  vuece_black_light: '#383838'
   

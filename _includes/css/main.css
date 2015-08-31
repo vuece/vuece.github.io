@@ -128,7 +128,7 @@ nav {
   left:0;
   background-color:#393939;
   background:url(img/noisy-texture-100x100-o5-d20-c-242424-t0.png);
-  opacity: 0.8;
+  opacity: 0.9;
 }
 
 nav ul {
@@ -141,9 +141,11 @@ nav ul {
 
 nav ul li {
   display:inline-block;
+
   /*
   border-top:{{navborder}}px solid;
   */
+
   padding: {{navborder}}px 0;
   *display:inline;
   zoom:1;
@@ -151,7 +153,7 @@ nav ul li {
   letter-spacing:normal;
   text-transform:uppercase;
   min-width:110px;
-  line-height:60px;
+  line-height:50px;
   margin:0;
 }
 
@@ -169,6 +171,7 @@ nav ul li a:hover {
 nav ul li:hover, nav ul li.active {
   border-top-width: {{navborder_active}}px;
   padding-top: 0;
+  font-color:#00FFFF;
 }
 
 
