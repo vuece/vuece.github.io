@@ -1,1 +1,1 @@
-&copy; Vuece 2016
+&copy; Vuece Technology 2016
