@@ -16,6 +16,8 @@ After installing Vuece Music app on your Android phone, run your app, you'll rea
     
 Veuce Music uses the accounts on your phone to log in. These accounts are all Google accounts. If you can't find the account you want to use, click the dropdown list and select "Add new account..." to add a new one.
 
+DISCLAIMER: we are not part of Google, nor do we work for Google. We just use Google's free services for a better life.
+
 ## Hub List
 
 After login, you'll see the hub list screen. If no any hub is available, you'll see a waiting screen.
