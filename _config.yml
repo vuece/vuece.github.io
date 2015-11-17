@@ -21,7 +21,7 @@ description: "A single-page template for Jekyll based blogs (like what you'd use
 source_link: "https://github.com/t413/SinglePaged"
 favicon:     "img/applogo_v4_blue_dark.ico"
 touch_icon:  "img/Logo_LightBlue.png"
-google_analytics_key: ## put YOUR key here to enable tracking! (blank to disable)
+google_analytics_key: "UA-61582007-1" ## put YOUR key here to enable tracking! (blank to disable)
 
 ### template colors, used site-wide via css ###
 colors:
@@ -35,7 +35,7 @@ colors:
   turquoise: '#0fbfcf'
   vuece_pink_dark: rgb(255, 102, 102)
   funk_yellow: '#fff200'
-  aqua: 	'#00FFFF'
+  aqua: '#00FFFF'
   scheme1_black: '#393939'
   scheme1_dark_black: '#111111'
   scheme1_orange: '#FF5A09'
