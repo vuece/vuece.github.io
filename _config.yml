@@ -19,7 +19,7 @@ title:       "Vuece Apps for Music"
 keywords:    "SinglePaged, jekyll, template, github, blog, single page"
 description: "A single-page template for Jekyll based blogs (like what you'd use on github pages!)"
 source_link: "https://github.com/t413/SinglePaged"
-favicon:     "img/applogo_v4_blue_dark.ico"
+favicon:     "img/favicon.ico"
 touch_icon:  "img/Logo_LightBlue.png"
 google_analytics_key: "UA-61582007-1" ## put YOUR key here to enable tracking! (blank to disable)
 
