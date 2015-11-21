@@ -16,8 +16,8 @@ highlighter: pygments
 
 ### content configuration ###
 title:       "Vuece Apps for Music"
-keywords:    "SinglePaged, jekyll, template, github, blog, single page"
-description: "A single-page template for Jekyll based blogs (like what you'd use on github pages!)"
+keywords:    "Vuece, music streaming, real-time, android, mobile"
+description: "Vuece Music - Your personal music streaming solution"
 source_link: "https://github.com/t413/SinglePaged"
 favicon:     "img/favicon.ico"
 touch_icon:  "img/Logo_LightBlue.png"
